@@ -81,3 +81,10 @@ Busca e instala la extensión SQLite Viewer.
 
 Haz doble clic sobre el archivo boletos_conve.db en el explorador de archivos para ver y consultar los registros en tiempo real.
 
+
+
+### 1. Instalar las dependencias necesarias
+El proyecto incluye un archivo `requirements.txt` con todas las librerías necesarias configuradas. Abre una terminal en la carpeta del proyecto y ejecuta:
+
+```bash
+python -m pip install -r requirements.txt
